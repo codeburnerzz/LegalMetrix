@@ -1,5 +1,5 @@
 fastapi>=0.110.0
-uvicorn[standard]>=0.28.0
+uvicorn>=0.28.0
 pydantic>=2.6.0
 pydantic-settings>=2.2.0
 sqlalchemy>=2.0.28
@@ -11,5 +11,3 @@ aiofiles>=23.2.1
 rapidocr>=3.0,<4
 onnxruntime>=1.7,<2
 reportlab>=4.0.0
-types-aiofiles
-types-reportlab
